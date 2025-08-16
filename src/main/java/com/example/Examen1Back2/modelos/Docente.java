@@ -20,7 +20,7 @@ public class Docente {
     @JsonManagedReference(value = "relaciondocenteusuario")
     private Usuario usuario;
 
-    @OneToMany(mappedBy = "docente")
+    @OneToMany(mappedBy = "docente", cascade = CascadeType.REMOVE)
     @JsonManagedReference(value = "relaciondocentecurso")
     private List<Curso> cursos;
 
