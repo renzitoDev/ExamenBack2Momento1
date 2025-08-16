@@ -1,5 +1,4 @@
-Aquí tienes el README completo para tu proyecto, con toda la información que solicitaste, listo para poner en tu repositorio de GitHub:
-
+Repo: https://github.com/renzitoDev/ExamenBack2Momento1.git
 ***
 
 # Proyecto Examen1Back2 - Gestión Académica Spring Boot
